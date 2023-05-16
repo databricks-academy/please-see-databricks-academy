@@ -1,6 +1,6 @@
 # Please See Databricks Academy
 
-The materials for this course are no longer available through GitHub.
+The courseware materials for this course are no longer available through GitHub.
 
 To access the current body of materials, please sign in to<br/>
 Databricks Academy using one of the following three options:
