@@ -1,4 +1,4 @@
-# Example Instructor-Led Course 
+# Please See Databricks Academy
 
 The materials for this course are no longer available through GitHub.
 
