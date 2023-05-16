@@ -1,4 +1,4 @@
-# Please See Databricks Academy
+# Please see Databricks Academy
 
 The courseware materials for this course are no longer available through GitHub.
 
